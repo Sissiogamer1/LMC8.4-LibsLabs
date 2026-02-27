@@ -11,7 +11,7 @@
     <string name="lib_gainlarge_key_3">0</string>
     <string name="lib_gainlarge_key_4">0</string>
     <string name="bl0_key_front">64</string>
-    <string name="pref_max_focus_value_key">10.0</string>
+    <string name="pref_max_focus_value_key">16.0</string>
     <string name="lib_lumadms_l1_key">0</string>
     <string name="lib_gainlarge_key_2">0</string>
     <string name="lib_dehazedexpo_key_2">0</string>
@@ -76,6 +76,7 @@
     <string name="lib_cg5_key_4">0</string>
     <string name="lib_hdrratio2_key_front">0</string>
     <string name="lib_temporal_radius_key_front">0</string>
+    <string name="pref_camera_hdr_plus_back_flashmode_thermally_disabled_key">0</string>
     <string name="lib_hardjpgquality_key_front">0</string>
     <string name="lib_temporalbin_key_2">0</string>
     <string name="lib_lumadh_l3_pro_key">0</string>
@@ -198,15 +199,15 @@
     <string name="lib_lumalevel_preset_key_5">0</string>
     <string name="lib_lumadh_l2_key_3">0</string>
     <string name="pref_Copmode_experimental_key_4">0</string>
-    <string name="pref_img_key_2">0</string>
+    <string name="pref_img_key_2">1</string>
     <string name="lib_lumadh_l2_key_4">0</string>
     <string name="pref_Copmode_experimental_key_3">0</string>
-    <string name="pref_img_key_3">0</string>
+    <string name="pref_img_key_3">1</string>
     <string name="lib_lumadh_l2_key_2">0</string>
     <string name="pref_Copmode_experimental_key_5">0</string>
-    <string name="pref_img_key_4">0</string>
+    <string name="pref_img_key_4">1</string>
     <string name="lib_nightmodeexposition_pro_key">0</string>
-    <string name="pref_img_key_5">0</string>
+    <string name="pref_img_key_5">1</string>
     <string name="lib_hdreffectint_key">0</string>
     <string name="lib_hotpixelsuppres_key_front">0</string>
     <string name="lib_cg4_key_front">0</string>
@@ -236,7 +237,7 @@
     <string name="lib_tuncolsatpar2_key_front">0</string>
     <string name="lib_lumadm_l2_key_4">0</string>
     <string name="lib_preservinghigh_key">0</string>
-    <string name="pref_exposure_5th_key">-3</string>
+    <string name="pref_exposure_5th_key">0</string>
     <string name="lib_lumadm_l2_key">0</string>
     <string name="lib_lumadh_l2_key_5">0</string>
     <string name="lib_spatiala_pro_key">0</string>
@@ -287,7 +288,7 @@
     <string name="pref_libs_fromdir_key_3">F7_V0.1.so</string>
     <string name="lib_lumadlsabre_l2_key_front">0</string>
     <string name="pref_libs_fromdir_key_2">F7_V0.1.so</string>
-    <string name="pref_design_key">0</string>
+    <string name="pref_design_key">7</string>
     <string name="lib_sabrecontrastsharp_key_4">0</string>
     <string name="lib_withtetmismatch_key_front">0</string>
     <string name="lib_sabrecontrastsharp_key_5">0</string>
@@ -310,7 +311,7 @@
     <string name="lib_denoise_key">0</string>
     <string name="pref_show_buttons_key">1</string>
     <string name="lib_lumadms_l5_key_front">0</string>
-    <string name="pref_focus_lock_time_key">2</string>
+    <string name="pref_focus_lock_time_key">8</string>
     <string name="lib_saturation_key_4">0</string>
     <string name="lib_lumadhsabre_l4a_key_front">0</string>
     <string name="lib_saturation_key_3">0</string>
@@ -354,7 +355,7 @@
     <string name="lib_chromab_key_front">0</string>
     <string name="lib_sharpnessnoisemodel_key">0</string>
     <string name="pref_opmode_video_key_5">0</string>
-    <string name="pref_aemode_astro_key">4</string>
+    <string name="pref_aemode_astro_key">7</string>
     <string name="pref_opmode_video_key_4">0</string>
     <string name="pref_opmode_video_key_3">0</string>
     <string name="pref_opmode_video_key_2">0</string>
@@ -447,6 +448,7 @@
     <string name="user_9_text"></string>
     <string name="lib_clarity_key_front">0</string>
     <string name="lib_sabrenoise_key">0</string>
+    <boolean name="camera.acat_debug" value="false" />
     <string name="pref_grgb_back_key_2">6</string>
     <string name="pref_opmode_video_key">0</string>
     <string name="pref_has_set_social_share_apps">1</string>
@@ -631,7 +633,7 @@
     <string name="lib_lumadmsabre_l2a_key_4">0</string>
     <string name="pref_gcam_lens_logic_key_4">0</string>
     <string name="bl3_key_id5">64</string>
-    <string name="pref_gcam_lens_logic_key_3">0</string>
+    <string name="pref_gcam_lens_logic_key_3">9</string>
     <string name="pref_gcam_lens_logic_key_5">0</string>
     <string name="lib_lumanoise_key">0</string>
     <string name="pref_gcam_lens_logic_key_2">0</string>
@@ -788,6 +790,7 @@
     <string name="lib_wbbaseframe_key_2">0</string>
     <string name="perf_has_shown_options_bar">1</string>
     <string name="lib_sabrelnewn_l3_key">0</string>
+    <string name="pref_af_data_show_key">0</string>
     <string name="lib_wbbaseframe_key_5">0</string>
     <string name="lib_wbbaseframe_key_4">0</string>
     <string name="lib_brightnessintensity_key">0</string>
@@ -798,7 +801,7 @@
     <string name="lib_ccontrast_key_3">0</string>
     <string name="lib_lumadmsabre_l2b_pro_key">0</string>
     <string name="lib_sharpgainmicro_pro_key">0</string>
-    <string name="pref_frames_hdr_key_front">0</string>
+    <string name="pref_frames_hdr_key_front">15</string>
     <string name="lib_green_key">0</string>
     <string name="lib_cg2_key_3">0</string>
     <string name="red_key_main">1.0</string>
@@ -915,7 +918,7 @@
     <string name="lib_lumadl_l2_pro_key">0</string>
     <string name="lib_ldr_key">E003679E</string>
     <string name="lib_lumanoise1_key">0</string>
-    <string name="pref_exposure_4th_key">-3</string>
+    <string name="pref_exposure_4th_key">0</string>
     <string name="lib_zipper1_key_4">0</string>
     <string name="lib_zipper1_key_5">0</string>
     <string name="lib_shastaforce_key_5">0</string>
@@ -943,7 +946,7 @@
     <string name="lib_gainthreshold_pro_key">0</string>
     <string name="lib_smoothness_key_2">0</string>
     <string name="lib_smoothness_key_5">0</string>
-    <string name="pref_camera_raw_output_key">1</string>
+    <string name="pref_camera_raw_output_key">0</string>
     <string name="lib_smoothness_key_4">0</string>
     <string name="lib_hightlight2_pro_key">0</string>
     <string name="lib_brightn_key_front">0</string>
@@ -965,7 +968,7 @@
     <string name="lib_lumadlsabre_l4a_key_front">0</string>
     <string name="pref_opmode_video_key_front">0</string>
     <string name="gb_0_key">0.086</string>
-    <string name="pref_exposure_wide_key">-3</string>
+    <string name="pref_exposure_wide_key">-1</string>
     <string name="lib_robustness_key">0</string>
     <string name="lib_tunsupresshotpixel_pro_key">0</string>
     <string name="d50_rg_key_front">0.56849</string>
@@ -1006,6 +1009,7 @@
     <string name="pref_opmode_key_3">0</string>
     <string name="lib_savmergchrden_key">0</string>
     <string name="pref_opmode_key_5">0</string>
+    <string name="WB_correction_key">0</string>
     <string name="pref_opmode_key_2">0</string>
     <string name="lib_cg6_key_2">0</string>
     <string name="pref_noise_modeler_manual_a_2_key_5">1.0785347E-5</string>
@@ -1061,6 +1065,7 @@
     <string name="lib_sabrelnewn_l2_pro_key">0</string>
     <string name="pref_noise_modeler_manual_a_3_key">1.0785347E-5</string>
     <string name="lib_hdrraw2_key_front">0</string>
+    <string name="pref_autocct_key">0</string>
     <string name="rb_4_key">0.258</string>
     <string name="lib_lumadms_l3_key_front">0</string>
     <string name="lib_light_pro_key">0</string>
@@ -1111,7 +1116,7 @@
     <string name="lib_lumadmsabre_l2_key_front">0</string>
     <string name="lib_zipper3_key_front">0</string>
     <string name="lib_cg5_pro_key">0</string>
-    <string name="pref_frames_hdr_key">0</string>
+    <string name="pref_frames_hdr_key">15</string>
     <string name="lib_tuncolsatpar1_pro_key">0</string>
     <string name="lib_lumadlsabre_l3a_key_5">0</string>
     <string name="lib_temporalb_pro_key">0</string>
@@ -1128,15 +1133,16 @@
     <string name="lib_lumadl_l5_key_front">0</string>
     <string name="h_bg_key">0.27259</string>
     <string name="lib_lumadlsabre_l4_key_front">0</string>
-    <string name="pref_max_focus_value_key_3">10.0</string>
+    <string name="pref_max_focus_value_key_3">0.0</string>
     <string name="lib_cg1_key_2">0</string>
     <string name="pref_max_focus_value_key_2">10.0</string>
     <string name="lib_cg1_key_3">0</string>
     <string name="lib_sabrecontrast_key">0</string>
     <string name="pref_aperture_key">0</string>
+    <string name="auto_exp_key">0</string>
     <string name="lib_shastafactor_key">0</string>
     <string name="lib_sabresharp_key_front">0</string>
-    <string name="pref_max_focus_value_key_5">10.0</string>
+    <string name="pref_max_focus_value_key_5">0.0</string>
     <string name="lib_ncontrast1_key_4">0</string>
     <string name="lib_cg1_key_4">0</string>
     <string name="pref_max_focus_value_key_4">10.0</string>
@@ -1260,10 +1266,11 @@
     <string name="h_rg_key_front">1.07277</string>
     <string name="pref_exposure_control_key">1</string>
     <string name="lib_cg10_key">0</string>
+    <string name="pref_photos_gallery_key">1</string>
     <string name="lib_hdrrangeminus_key_5">0</string>
     <string name="lib_lumadhsabre_l1a_key">0</string>
     <string name="lib_hdrrangeminus_key_4">0</string>
-    <string name="pref_device_key_front">0</string>
+    <string name="pref_device_key_front">18</string>
     <string name="lib_lumadmsabre_l4a_key_front">0</string>
     <string name="lib_robustness_key_front">0</string>
     <string name="lib_lumadls_l5_key_3">0</string>
@@ -1291,6 +1298,7 @@
     <string name="lib_noisereductsabre_key_5">0</string>
     <string name="lib_fixraw16merge_key_5">08028052</string>
     <string name="lib_noisereductsabre_key_2">0</string>
+    <string name="pref_camera_cd_indicator_enabled_key">1</string>
     <string name="lib_noisereductsabre_key_4">0</string>
     <string name="pref_samsungfix_key_2">0</string>
     <string name="lib_noisereductsabre_key_3">0</string>
@@ -1313,7 +1321,7 @@
     <string name="pref_noise_modeler_manual_a_1_key">4.9889366E-7</string>
     <string name="lib_preservinghigh_key_front">0</string>
     <string name="lib_zipper1_key_front">0</string>
-    <string name="pref_gcam_lens_logic_key_front">0</string>
+    <string name="pref_gcam_lens_logic_key_front">2</string>
     <string name="lib_orgb_pro_key">0</string>
     <string name="lib_cg9_key_4">0</string>
     <string name="lib_cg9_key_5">0</string>
@@ -1347,6 +1355,7 @@
     <string name="lib_clarity_key_3">0</string>
     <string name="pref_noise_modeler_manual_c_1_key">1.9878738E-12</string>
     <string name="lib_clarity_key_2">0</string>
+    <boolean name="camera.gouda_debug_img" value="false" />
     <string name="pref_video_resolution">RES_1080P</string>
     <string name="lib_contrast_2_key_4">0</string>
     <string name="lib_lumadl_l2_key_4">0</string>
@@ -1411,7 +1420,7 @@
     <string name="lib_spatialdenmi1_key">0</string>
     <string name="lib_sabrelnewn_l9_key">0</string>
     <string name="lib_spatiala_key">0</string>
-    <string name="pref_device_key_wide">0</string>
+    <string name="pref_device_key_wide">18</string>
     <string name="lib_hdrsabrecalcval2_key_3">0</string>
     <string name="lib_hdrsabrecalcval2_key_2">0</string>
     <string name="lib_highlight2_key">0</string>
@@ -1419,6 +1428,7 @@
     <string name="lib_hdrsabrecalcval2_key_4">0</string>
     <string name="lib_lumadms_l5_pro_key">0</string>
     <string name="lib_lumadhs_l5_key">0</string>
+    <boolean name="gcam.debug" value="false" />
     <string name="lib_sabrenoise_key_3">0</string>
     <string name="lib_sabrenoise_key_2">0</string>
     <string name="lib_sabrenoise_key_5">0</string>
@@ -1454,7 +1464,7 @@
     <string name="pref_frames_hdr_key_4">0</string>
     <string name="pref_frames_hdr_key_5">0</string>
     <string name="pref_frames_hdr_key_2">0</string>
-    <string name="pref_frames_hdr_key_3">0</string>
+    <string name="pref_frames_hdr_key_3">15</string>
     <string name="lib_user_addr_10"></string>
     <string name="pref_dbl_key_main">0</string>
     <string name="pref_c2a_key">1</string>
@@ -1499,13 +1509,14 @@
     <string name="lib_lumadhsabre_l3_pro_key">0</string>
     <string name="lib_lumadlsabre_l4b_key">0</string>
     <string name="pref_satCCT_key_front">1.0</string>
-    <string name="pref_audio_zoom_key">1</string>
+    <string name="pref_audio_zoom_key">0</string>
     <string name="pref_zoom_in_command_string">19</string>
     <string name="pref_Copmode_night_key_5">0</string>
     <string name="pref_dbl_key_front">0</string>
     <string name="pref_ois_key">0</string>
     <string name="pref_Copmode_night_key_3">0</string>
     <string name="pref_Copmode_night_key_4">0</string>
+    <string name="pref_camera_dynamic_depth_enabled_key">0</string>
     <string name="lib_night_mode_gain_key_front">0</string>
     <string name="pref_satCCT_R_key_3">1.0</string>
     <string name="lib_lumadhsabre_l5a_key">0</string>
@@ -1541,7 +1552,7 @@
     <string name="pref_camera_enable_iris">1</string>
     <string name="pref_device_key_id5">0</string>
     <string name="lib_sabrelnewn_l6_key_2">0</string>
-    <string name="pref_device_key_id4">0</string>
+    <string name="pref_device_key_id4">18</string>
     <string name="lib_vignette_key_2">0</string>
     <string name="lib_lumadm_l1_key_5">0</string>
     <string name="lib_lumadm_l1_key_4">0</string>
@@ -1566,7 +1577,7 @@
     <string name="lib_sharpnessnoisemodel_key_2">0</string>
     <string name="lib_hdrbrightness_pro_key">0</string>
     <string name="lib_exposition_key_5">0</string>
-    <string name="pref_exposure_tele_key">-3</string>
+    <string name="pref_exposure_tele_key">0</string>
     <string name="lib_exposition_key_2">0</string>
     <string name="lib_exposition_key_3">0</string>
     <string name="lib_lumadm_l5_pro_key">0</string>
@@ -1731,6 +1742,7 @@
     <string name="pref_B_hue_key_4">0</string>
     <string name="pref_B_hue_key_5">0</string>
     <string name="lib_lumadm_l3_key_5">0</string>
+    <boolean name="OpenButtonListExtenderLeft" value="true" />
     <string name="lib_isoexpotun_pro_key">0</string>
     <string name="lib_lumadls_l1_key_front">0</string>
     <string name="pref_Copmode_motion_key_front">0</string>
@@ -1768,7 +1780,7 @@
     <string name="lib_lumadhsabre_l1_key_3">0</string>
     <string name="lib_lumadhsabre_l1_key_5">0</string>
     <string name="bg_4_key">-0.914</string>
-    <string name="pref_max_zoom_key">16</string>
+    <string name="pref_max_zoom_key">48</string>
     <string name="lib_sabrelnewn_l7_key">0</string>
     <string name="pref_raw_key_tele">2</string>
     <string name="pref_noise_model_key_front">10</string>
@@ -1871,7 +1883,7 @@
     <string name="lib_sharpnessa_key_2">0</string>
     <string name="rr_1_key">1.68</string>
     <string name="lib_lumadhs_l3_key">0</string>
-    <string name="pref_color_transform_key">2</string>
+    <string name="pref_color_transform_key">1</string>
     <string name="pref_noise_modeler_manual_b_2_key_5">1.0785347E-5</string>
     <string name="pref_noise_modeler_manual_b_2_key_2">1.0785347E-5</string>
     <string name="pref_noise_modeler_manual_b_2_key_3">1.0785347E-5</string>
@@ -2036,7 +2048,7 @@
     <string name="lib_sabrenoiseestimals_key_3">0</string>
     <string name="gb_1_key">0.086</string>
     <string name="lib_sabre1_pro_key">0</string>
-    <string name="dev_setting_filter_key">p3</string>
+    <string name="dev_setting_filter_key">debug</string>
     <string name="lib_hdreffect_key_front">0</string>
     <string name="lib_temporal_radius_key">0</string>
     <string name="lib_lumadl_l3_key">0</string>
@@ -2162,6 +2174,7 @@
     <string name="pref_black_level_key_main">0</string>
     <string name="pref_noise_model_key_2">0</string>
     <string name="lib_contrast_1_ldr_key">0</string>
+    <string name="pref_camera_kepler_enabled_key">1</string>
     <string name="d50_rg_key_5">0.56849</string>
     <string name="lib_simultaneousmerge_key_2">0</string>
     <string name="pref_Copmode_key_2">0</string>
@@ -2179,12 +2192,12 @@
     <string name="lib_night_mode_gain_key_5">0</string>
     <string name="lib_brightn_pro_key">0</string>
     <string name="pref_c2a_livehdr_key">0</string>
-    <string name="pref_device_key_tele">0</string>
+    <string name="pref_device_key_tele">18</string>
     <string name="lib_sabrelnewn_l4_key">0</string>
     <string name="pref_camera_picturesize_front_key">2592x1944</string>
     <string name="lib_wbbaseframe_key_front">0</string>
     <string name="lib_chromaa_pro_key">0</string>
-    <string name="pref_gcam_lens_logic_key">0</string>
+    <string name="pref_gcam_lens_logic_key">1</string>
     <string name="pref_focus_value_key">100.0</string>
     <string name="lib_lumadm_l2_key_front">0</string>
     <string name="pref_front_active_values_key">0</string>
@@ -2378,13 +2391,13 @@
     <string name="lib_raisrzftuning2_key_front">0</string>
     <string name="pref_noise_modeler_manual_d_2_key">-8.484603E-8</string>
     <string name="lib_smoothingsabre_pro_key">0</string>
-    <string name="pref_exposure_front_option_available_key">-3</string>
+    <string name="pref_exposure_front_option_available_key">-2</string>
     <string name="lib_sabre3_key_5">0</string>
     <string name="lib_sabre3_key_3">0</string>
     <string name="lib_sabre3_key_4">0</string>
     <string name="lib_lumadnewb_key">0</string>
     <string name="lib_sabre3_key_2">0</string>
-    <string name="pref_img_key_front">0</string>
+    <string name="pref_img_key_front">1</string>
     <string name="user_1_text"></string>
     <string name="lib_contrast_1_key_front">0</string>
     <string name="lib_expocor_key_front">0</string>
@@ -2392,7 +2405,7 @@
     <string name="rg_3_key">-0.94</string>
     <string name="lib_coefsabrtunoise_key">0</string>
     <string name="lib_gro_key_4">0</string>
-    <string name="pref_device_key">0</string>
+    <string name="pref_device_key">18</string>
     <string name="lib_gro_key_3">0</string>
     <string name="lib_gro_key_2">0</string>
     <string name="lib_smoothing1_key">0</string>
@@ -2475,12 +2488,12 @@
     <string name="pref_iso_noise_coeff_key_3">0.5</string>
     <string name="lib_lumadms_l3_key_3">0</string>
     <string name="pref_iso_noise_coeff_key_5">0.5</string>
-    <string name="pref_color_transform_key_front">2</string>
+    <string name="pref_color_transform_key_front">1</string>
     <string name="pref_enable_camera_key">1</string>
     <string name="lib_spatialdenmi4_key">0</string>
     <string name="pref_color_transform_key_4">2</string>
     <string name="lib_lumadms_l3_key_4">0</string>
-    <string name="pref_color_transform_key_3">2</string>
+    <string name="pref_color_transform_key_3">1</string>
     <string name="lib_lumadms_l3_key_5">0</string>
     <string name="lib_cg3_key_front">0</string>
     <string name="pref_color_transform_key_5">2</string>
@@ -2545,6 +2558,7 @@
     <string name="lib_gainsmall_key">0</string>
     <string name="pref_mars_enabled">0</string>
     <string name="lib_lumadhsabre_l5_pro_key">0</string>
+    <string name="WB_color_space_key">0</string>
     <string name="pref_noise_modeler_manual_d_0_key">1.9878738E-12</string>
     <string name="lib_lumadh_l1_key">0</string>
     <string name="lib_lumasmooth_key">0</string>
@@ -2555,7 +2569,7 @@
     <string name="lib_lumadlsabre_l1b_key_4">0</string>
     <string name="pref_noise_modeler_manual_c_0_key">1.9878738E-12</string>
     <string name="lib_lumadlsabre_l1b_key_2">0</string>
-    <string name="pref_img_key">0</string>
+    <string name="pref_img_key">1</string>
     <string name="lib_contrast_2_key">0</string>
     <string name="lib_sharpgainmacro_key_2">0</string>
     <string name="lib_sabrenoiseart_key_front">0</string>
