@@ -348,6 +348,7 @@
     <string name="lib_lumadlsabre_l1_key_front">0</string>
     <string name="CCT_WB_intensity_key_5">1.0</string>
     <string name="lib_init_params_key_front">0</string>
+    <string name="pref_has_checked_gouda_mode">1</string>
     <string name="lib_colprocessing_key">0</string>
     <string name="lib_exposition_key">0</string>
     <string name="lib_lumadhsabre_l4_pro_key">0</string>
@@ -1270,7 +1271,7 @@
     <string name="lib_hdrrangeminus_key_5">0</string>
     <string name="lib_lumadhsabre_l1a_key">0</string>
     <string name="lib_hdrrangeminus_key_4">0</string>
-    <string name="pref_device_key_front">18</string>
+    <string name="pref_device_key_front">0</string>
     <string name="lib_lumadmsabre_l4a_key_front">0</string>
     <string name="lib_robustness_key_front">0</string>
     <string name="lib_lumadls_l5_key_3">0</string>
@@ -1420,7 +1421,7 @@
     <string name="lib_spatialdenmi1_key">0</string>
     <string name="lib_sabrelnewn_l9_key">0</string>
     <string name="lib_spatiala_key">0</string>
-    <string name="pref_device_key_wide">18</string>
+    <string name="pref_device_key_wide">0</string>
     <string name="lib_hdrsabrecalcval2_key_3">0</string>
     <string name="lib_hdrsabrecalcval2_key_2">0</string>
     <string name="lib_highlight2_key">0</string>
@@ -1552,7 +1553,7 @@
     <string name="pref_camera_enable_iris">1</string>
     <string name="pref_device_key_id5">0</string>
     <string name="lib_sabrelnewn_l6_key_2">0</string>
-    <string name="pref_device_key_id4">18</string>
+    <string name="pref_device_key_id4">0</string>
     <string name="lib_vignette_key_2">0</string>
     <string name="lib_lumadm_l1_key_5">0</string>
     <string name="lib_lumadm_l1_key_4">0</string>
@@ -2192,7 +2193,7 @@
     <string name="lib_night_mode_gain_key_5">0</string>
     <string name="lib_brightn_pro_key">0</string>
     <string name="pref_c2a_livehdr_key">0</string>
-    <string name="pref_device_key_tele">18</string>
+    <string name="pref_device_key_tele">0</string>
     <string name="lib_sabrelnewn_l4_key">0</string>
     <string name="pref_camera_picturesize_front_key">2592x1944</string>
     <string name="lib_wbbaseframe_key_front">0</string>
@@ -2405,7 +2406,7 @@
     <string name="rg_3_key">-0.94</string>
     <string name="lib_coefsabrtunoise_key">0</string>
     <string name="lib_gro_key_4">0</string>
-    <string name="pref_device_key">18</string>
+    <string name="pref_device_key">0</string>
     <string name="lib_gro_key_3">0</string>
     <string name="lib_gro_key_2">0</string>
     <string name="lib_smoothing1_key">0</string>
