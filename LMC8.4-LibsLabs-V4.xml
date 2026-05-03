@@ -239,7 +239,7 @@
     <string name="lib_lumadm_l2_key_5">0</string>
     <string name="lib_tuncolsatpar2_key_front">0</string>
     <string name="lib_lumadm_l2_key_4">0</string>
-    <string name="lib_preservinghigh_key">0</string>
+    <string name="lib_preservinghigh_key">ED050054</string>
     <string name="pref_exposure_5th_key">0</string>
     <string name="lib_lumadm_l2_key">0</string>
     <string name="lib_lumadh_l2_key_5">0</string>
@@ -331,7 +331,7 @@
     <string name="lib_lumadnewa_key_3">0</string>
     <string name="lib_lumadnewa_key_2">0</string>
     <string name="lib_lumadnewa_key_5">0</string>
-    <string name="lib_hdrbrightness_key">0</string>
+    <string name="lib_hdrbrightness_key">0990361E</string>
     <string name="lib_lumasmoothing_key_4">0</string>
     <string name="pref_opmode_portrait_key_front">0</string>
     <string name="lib_lumasmoothing_key_5">0</string>
@@ -474,7 +474,7 @@
     <string name="lib_allowtemporalbinning_key_2">0</string>
     <string name="lib_lumadhsabre_l3b_key">0</string>
     <string name="lib_allowtemporalbinning_key_3">0</string>
-    <string name="pref_video_fps_4k_key">FPS_30</string>
+    <string name="pref_video_fps_4k_key">FPS_60</string>
     <string name="lib_allowtemporalbinning_key_4">0</string>
     <string name="rr_0_key">1.68</string>
     <string name="lib_resamplmethod_pro_key">0</string>
@@ -689,7 +689,7 @@
     <string name="lib_lumadhsabre_l5_key_2">0</string>
     <string name="pref_upscale_key_5">0</string>
     <string name="pref_upscale_key_2">0</string>
-    <string name="pref_has_checked_lens_mode">0</string>
+    <string name="pref_has_checked_lens_mode">1</string>
     <string name="pref_upscale_key_3">0</string>
     <string name="red_key_wide">1.0</string>
     <string name="lib_lumadhs_l4_key">0</string>
@@ -777,6 +777,7 @@
     <string name="lib_lumadlsabre_l1a_key">0</string>
     <string name="lib_brightnessintensity_pro_key">0</string>
     <string name="pref_enable_patcher_key">1</string>
+    <int name="tooltip_impression_count_for_washington_tooltip" value="1" />
     <string name="lib_resamplmethod_key">0</string>
     <string name="lib_lumadls_l3_key">0</string>
     <string name="lib_sabrenoiseart_pro_key">0</string>
@@ -859,13 +860,13 @@
     <string name="lib_lumadl_l4_key">0</string>
     <string name="lib_expocomp_key">0</string>
     <string name="lib_lumadhsabre_l3a_key_front">0</string>
-    <string name="lib_liteldrhigh_key">0</string>
+    <string name="lib_liteldrhigh_key">0010281E</string>
     <string name="pref_Copmode_normal_key">0</string>
     <string name="lib_lumadmsabre_l2b_key_front">0</string>
     <string name="bg_1_key">-0.914</string>
     <string name="lib_softsharpa_key_2">0</string>
     <string name="lib_softsharpa_key_3">0</string>
-    <string name="lib_dehazedblack_key">0</string>
+    <string name="lib_dehazedblack_key">0190221E</string>
     <string name="lib_lutnoisefix_key_5">0</string>
     <string name="lib_lutnoisefix_key_4">0</string>
     <string name="pref_manual_cameraid_front_3_key">1</string>
@@ -949,7 +950,7 @@
     <string name="pref_dbl_key_id5">0</string>
     <string name="pref_dbl_key_id4">0</string>
     <string name="lib_smoothness_key">0</string>
-    <string name="pref_video_fps_p2018_key">FPS_30</string>
+    <string name="pref_video_fps_p2018_key">FPS_60</string>
     <string name="lib_smoothness_key_3">0</string>
     <string name="lib_gainthreshold_pro_key">0</string>
     <string name="lib_smoothness_key_2">0</string>
@@ -959,7 +960,7 @@
     <string name="lib_hightlight2_pro_key">0</string>
     <string name="lib_brightn_key_front">0</string>
     <string name="lib_sabrecontrast_pro_key">0</string>
-    <string name="lib_hardjpgquality_key">0</string>
+    <string name="lib_hardjpgquality_key">15008052</string>
     <string name="pref_black_level_key_wide">0</string>
     <string name="lib_raisrzftuning2_key">0</string>
     <string name="cw_bg_key_front">0.38687</string>
@@ -1097,7 +1098,7 @@
     <string name="pref_opmode_normal_key_2">0</string>
     <string name="pref_opmode_normal_key_3">0</string>
     <string name="lib_fixraw16merge_key">08028052</string>
-    <string name="lib_brightn_key">0</string>
+    <string name="lib_brightn_key">03D02D1E</string>
     <string name="pref_opmode_normal_key_4">0</string>
     <string name="pref_gamma_curve_mode_key_4">-1</string>
     <string name="lib_lumadhs_l3_key_5">0</string>
@@ -1182,7 +1183,7 @@
     <string name="lib_sabrburmerge3_pro_key">0</string>
     <string name="pref_opmode_experimental_key_5">0</string>
     <string name="lib_ccontrast2_key">0</string>
-    <string name="prefix_key">LMC8.4-LibsLabs-V3_</string>
+    <string name="prefix_key">LMC8.4-LibsLabs-V4_</string>
     <string name="lib_green_key_3">0</string>
     <string name="lib_green_key_2">0</string>
     <string name="lib_lumadls_l5_key">0</string>
@@ -1275,6 +1276,7 @@
     <string name="pref_exposure_control_key">1</string>
     <string name="lib_cg10_key">0</string>
     <string name="pref_photos_gallery_key">1</string>
+    <boolean name="pref_key_reboot_completed" value="true" />
     <string name="lib_hdrrangeminus_key_5">0</string>
     <string name="lib_lumadhsabre_l1a_key">0</string>
     <string name="lib_hdrrangeminus_key_4">0</string>
@@ -1364,7 +1366,7 @@
     <string name="pref_noise_modeler_manual_c_1_key">1.0676540103232115e-06</string>
     <string name="lib_clarity_key_2">0</string>
     <boolean name="camera.gouda_debug_img" value="false" />
-    <string name="pref_video_resolution">RES_1080P</string>
+    <string name="pref_video_resolution">RES_2160P</string>
     <string name="lib_contrast_2_key_4">0</string>
     <string name="lib_lumadl_l2_key_4">0</string>
     <string name="pref_merge_key_wide">0</string>
@@ -1481,7 +1483,7 @@
     <string name="lib_sabrelnew_l1_key_3">0</string>
     <string name="lib_sabrelnew_l1_key_2">0</string>
     <string name="pref_R_hue_key">0</string>
-    <string name="lib_allowtemporalbinning_key">0</string>
+    <string name="lib_allowtemporalbinning_key">28008052</string>
     <string name="lib_hdrrangeplus_key">0</string>
     <string name="lib_lighting_key_front">0</string>
     <string name="lib_sabrelnew_l1_key_5">0</string>
@@ -1719,7 +1721,7 @@
     <string name="lib_whitelevel_pro_key">0</string>
     <string name="pref_model_key">11</string>
     <string name="lib_smoothing2_key_front">0</string>
-    <string name="pref_camera_back_flashmode_key">ns</string>
+    <string name="pref_camera_back_flashmode_key">off</string>
     <string name="pref_social_app_org_telegram_messenger">0</string>
     <string name="lib_lumadl_l3_pro_key">0</string>
     <string name="lib_lumaa_key_4">0</string>
@@ -2040,13 +2042,14 @@
     <string name="lib_lumadh_l4_key_4">0</string>
     <string name="lib_temporala_key_front">0</string>
     <string name="pref_Copmode_portrait_key">0</string>
+    <long name="tooltip_latest_impression_timestamp_for_washington_tooltip" value="1773854803652" />
     <string name="pref_noise_modeler_manual_b_0_key_5">4.9889366E-7</string>
     <string name="pref_noise_modeler_manual_b_0_key_4">4.9889366E-7</string>
     <string name="pref_noise_modeler_manual_b_0_key_3">1.0883072597061747e-06</string>
     <string name="pref_noise_modeler_manual_b_0_key_2">4.9889366E-7</string>
     <string name="lib_shastafactor_pro_key">0</string>
     <string name="lib_ccontrast_ldr_key">0</string>
-    <string name="lib_wbbaseframe_key">0</string>
+    <string name="lib_wbbaseframe_key">E8079F1A</string>
     <string name="lib_hdrmodel_key_front">0</string>
     <string name="h_rg_key">1.07277</string>
     <string name="lib_lumadhs_l5_key_front">0</string>
@@ -2063,7 +2066,7 @@
     <string name="lib_sabrenoiseestimals_key_3">0</string>
     <string name="gb_1_key">0.086</string>
     <string name="lib_sabre1_pro_key">0</string>
-    <string name="dev_setting_filter_key">camcorder.max</string>
+    <string name="dev_setting_filter_key"></string>
     <string name="lib_hdreffect_key_front">0</string>
     <string name="lib_temporal_radius_key">0</string>
     <string name="lib_lumadl_l3_key">0</string>
@@ -2234,12 +2237,12 @@
     <string name="lib_lumadhsabre_l3a_key">0</string>
     <string name="pref_black_level_key_id5">0</string>
     <string name="pref_black_level_key_id4">0</string>
-    <string name="lib_withtetmismatch_key">0</string>
+    <string name="lib_withtetmismatch_key">3C140094</string>
     <string name="lib_fixraw16merge_pro_key">0</string>
     <string name="lib_hdrratio2_key_2">0</string>
     <string name="lib_hdrratio2_key_3">0</string>
     <string name="pref_c2a_metering_key">0</string>
-    <string name="lib_hdr2_key">0</string>
+    <string name="lib_hdr2_key">EC03271E</string>
     <string name="pref_micro_mode">1</string>
     <string name="lib_sabrebyrawtoyuv_key_front">0</string>
     <string name="lib_zipper3_key">0</string>
